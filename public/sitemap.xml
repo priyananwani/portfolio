@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:58114/blogs/</loc>
+    <loc>http://localhost:58824/blogs/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/example/</loc>
+    <loc>http://localhost:58824/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/</loc>
+    <loc>http://localhost:58824/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/markdown-syntax/</loc>
+    <loc>http://localhost:58824/tags/markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/mathjax/</loc>
+    <loc>http://localhost:58824/tags/mathjax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/blogs/math/</loc>
+    <loc>http://localhost:58824/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/</loc>
+    <loc>http://localhost:58824/tags/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/gallery/</loc>
+    <loc>http://localhost:58824/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/blogs/markdown-syntax/</loc>
+    <loc>http://localhost:58824/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/sample/</loc>
+    <loc>http://localhost:58824/tags/sample/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/emoji-support/</loc>
+    <loc>http://localhost:58824/tags/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/blogs/emoji-support/</loc>
+    <loc>http://localhost:58824/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/placeholder-text/</loc>
+    <loc>http://localhost:58824/tags/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/blogs/placeholder-text/</loc>
+    <loc>http://localhost:58824/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/tags/rich-content/</loc>
+    <loc>http://localhost:58824/tags/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/blogs/rich-content/</loc>
+    <loc>http://localhost:58824/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:58114/categories/</loc>
+    <loc>http://localhost:58824/categories/</loc>
   </url>
 </urlset>
